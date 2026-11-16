@@ -43,8 +43,7 @@ https://github.com/taylorbentz/abs-smooth-video/blob/main/PRIVACY.md
 ## Assets
 - Store icon: `extension/icons/icon-128.png`
 - Small promo tile (440×280): `art/promo-440x280.png`
-- Screenshot (1280×800 or 640×400): **still needed.** Take one of a course video
-  playing, with the console showing `__absSmoothVideo`.
+- Screenshot (1280×800): `art/store-screenshot-1280x800.png`
 
 ## Firefox notes
 - Upload `dist/abs-smooth-video-firefox-<version>.zip`.
