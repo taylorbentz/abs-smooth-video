@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="280" viewBox="0 0 440 280">
+  <rect width="440" height="280" fill="#1d3557"/>
+  <g transform="translate(36 76)">
+    <path d="M48 30 L94 58 L48 86 Z" fill="#ffffff" stroke="#ffffff" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M18 100 C 46 116, 82 116, 110 100" fill="none" stroke="#f4a259" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="170" y="118" font-size="30" font-weight="700">Smooth Video</text>
+    <text x="170" y="150" font-size="18">for ABS Online Learning</text>
+    <text x="170" y="190" font-size="14" fill="#f4a259">Unofficial · No data collected</text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "name": "abs-smooth-video",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Unofficial browser extension that stops ABS Online Learning Center videos from freezing.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "build": "npm test && node scripts/build.mjs",
+    "icons": "sh scripts/icons.sh"
+  },
+  "license": "MIT"
+}
